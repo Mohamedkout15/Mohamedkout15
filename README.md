@@ -11,6 +11,7 @@
 <a href="https://linkedin.com/in/mohamed-kout3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-kout3" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20770711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20770711" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Hammadi15" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="hammadi15" height="30" width="40" /></a>
+  <a href="https://dev.to/mohamedkout15" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="hammadi15" height="30" width="40" /></a>
 </p>
 
 
